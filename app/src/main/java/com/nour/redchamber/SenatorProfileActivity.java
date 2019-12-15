@@ -65,7 +65,7 @@ public class SenatorProfileActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Intent mail = new Intent(Intent.ACTION_SENDTO);
-                mail.setData(Uri.parse("mailto:"));
+                mail.setData(Uri.parse("mailto:" + email.getText().toString()));
                 mail.putExtra(Intent.EXTRA_EMAIL, email.getText().toString());
                 mail.putExtra(Intent.EXTRA_SUBJECT, "");
                 if(mail.resolveActivity(getPackageManager()) != null && !email.getText().toString().equals("Not Available"))
