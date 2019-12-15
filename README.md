@@ -11,6 +11,6 @@ Directory app that lets you reach Nigerian senators of the 9th assembly represen
 
 ### Screenshots
 
-![Home Activity](https://github.com/shariffnour/Lawmaker/tree/master/app/src/main/res/screenshots/homeactivity.JPG)
-![Profile Activity](../app/src/main/res/screenshots/profileactivity.JPG)
-![Search](../app/src/main/res/screenshots/searchactivity.JPG)
+![Home Activity](/app/src/main/res/screenshots/homeactivity.JPG)
+![Profile Activity](/app/src/main/res/screenshots/profileactivity.JPG)
+![Search](/app/src/main/res/screenshots/searchactivity.JPG)
