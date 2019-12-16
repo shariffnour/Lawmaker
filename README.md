@@ -5,6 +5,7 @@ Directory app that lets you reach Nigerian senators of the 9th assembly represen
 ## Libraries Used
 1. [Retrofit](https://github.com/square/retrofit)
 2. [Picasso](https://github.com/square/picasso)
+3. [CircleImageView](https://github.com/hdodenhof/CircleImageView)
 
 ## Data Source (JSON)
 [9thsenate.json](https://github.com/shariffnour/9thsenate)
